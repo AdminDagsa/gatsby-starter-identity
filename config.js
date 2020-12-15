@@ -8,14 +8,14 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
-  authorName: 'Anubhav Srivastava',
-  heading: 'Web Developer',
+  authorName: 'Abner Sánchez Fiz',
+  heading: 'Experto Marketing',
   // social
   socialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-phone-square',
+      name: 'Celular',
+      url: 'tel: 55555555',
     },
     {
       icon: 'fa-twitter',
@@ -30,7 +30,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:abnerfiz@amstrategyhouse.com',
     },
   ],
 };
