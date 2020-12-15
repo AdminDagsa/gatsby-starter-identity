@@ -13,19 +13,19 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'fa-phone-square',
+      icon: 'fa-whatsapp',
       name: 'Celular',
-      url: 'tel: 55555555',
+      url: 'https://wa.me/+5215530437776/?text=Hola, me interesa saber mas de marketing',
     },
     {
-      icon: 'fa-twitter',
+      icon: 'fa-globe',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://www.amstrategyhouse.com/',
     },
     {
-      icon: 'fa-facebook',
+      icon: 'fa-instagram',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://www.instagram.com/am_strategyhouse/',
     },
     {
       icon: 'fa-envelope-o',
