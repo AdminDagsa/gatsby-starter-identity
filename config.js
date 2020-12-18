@@ -9,13 +9,13 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Abner Sánchez Fiz',
-  heading: 'Experto Marketing',
+  heading: 'Director de Marketing',
   // social
   socialLinks: [
     {
       icon: 'fa-whatsapp',
       name: 'Celular',
-      url: 'https://wa.me/+5215530437776/?text=Hola, me interesa saber mas de marketing',
+      url: 'https://wa.me/+5215544429921/?text=Hola, me interesa saber mas de marketing',
     },
     {
       icon: 'fa-globe',
