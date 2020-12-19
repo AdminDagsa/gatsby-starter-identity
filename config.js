@@ -3,13 +3,14 @@ module.exports = {
   manifestName: 'Identity',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#9b9b9b',
+  manifestThemeColor: '#9b9b9b',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-identity/`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Abner Sánchez Fiz',
   heading: 'Director de Marketing',
+  text: 'Contáctame:',
   // social
   socialLinks: [
     {

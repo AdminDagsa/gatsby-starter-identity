@@ -11,6 +11,7 @@ export default function Footer() {
       </span>
       <h1>{config.authorName}</h1>
       <p>{config.heading}</p>
+      <h3>{config.text}</h3>
     </header>
   );
 }
