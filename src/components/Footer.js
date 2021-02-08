@@ -1,5 +1,6 @@
 import React from 'react';
 import config from '../../config';
+const agency = require('../assets/images/am.png')
 
 export default function Footer() {
   return (
@@ -16,6 +17,7 @@ export default function Footer() {
           );
         })}
       </ul>
+      <img height="128px" src={agency} alt="" className="agency"/>
     </footer>
   );
 }

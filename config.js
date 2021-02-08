@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-whatsapp',
       name: 'Celular',
-      url: 'https://wa.me/+5215544429921/?text=Hola, me interesa saber mas de marketing',
+      url: 'https://wa.me/+5215544429921/?text=Hola Abner, me interesa conocer más sobre AM STRATEGY HOUSE',
     },
     {
       icon: 'fa-globe',
@@ -32,6 +32,11 @@ module.exports = {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:abnerfiz@amstrategyhouse.com',
+    },
+    { 
+      icon: 'fa-linkedin',
+      name: 'linkedin',
+      url: 'http://linkedin.com/in/abner-sánchez-fiz-a8018a105'
     },
   ],
 };

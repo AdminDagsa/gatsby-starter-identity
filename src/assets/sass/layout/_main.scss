@@ -19,9 +19,11 @@
   cursor: default;
   max-width: 100%;
   opacity: 0.95;
-  position: relative;
+  position: fixed;
   text-align: center;
-  width: 27em;
+  height: auto;
+  width: auto;
+  background-size: cover;
 
   .avatar {
     position: relative;
@@ -29,7 +31,7 @@
     margin-bottom: _size(element-margin);
 
     img {
-      display: block;
+      display: relative;
       margin: 0 auto;
       border-radius: 100%;
       box-shadow: 0 0 0 1.5em _palette(bg);
