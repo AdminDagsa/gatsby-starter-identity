@@ -2,7 +2,6 @@ import React from 'react';
 
 import config from '../../config';
 const pic = require('../assets/images/abner.jpg');
-const agency = require('../assets/images/am.png')
 
 export default function Footer() {
   return (
@@ -14,6 +13,5 @@ export default function Footer() {
       <p>{config.heading}</p>
       <h3>{config.text}</h3>
     </header>
-    
   );
 }

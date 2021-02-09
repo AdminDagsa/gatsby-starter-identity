@@ -17,9 +17,10 @@
   background: _palette(bg);
   border-radius: _size(border-radius);
   cursor: default;
-  max-width: 100%;
+  max-width: 95%;
+  margin: auto;
   opacity: 0.95;
-  position: fixed;
+  position: relative;
   text-align: center;
   height: auto;
   width: auto;
