@@ -18,7 +18,7 @@
 // Based on css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
 html {
   box-sizing: border-box;
-  height: 100vh;
+  min-height: 100vh;
   background-color: _palette(bg);
   @include vendor(
     'background-image',
@@ -32,6 +32,7 @@ html {
   background-size: 100px 100px, cover, cover;
   background-position: top left, center center, bottom center;
   background-attachment: fixed, fixed, fixed;
+  overflow-y: scroll;
 }
 
 *,
